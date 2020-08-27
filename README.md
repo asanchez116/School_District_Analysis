@@ -62,4 +62,4 @@ the ninth grade at Thomas High School have been replaced with NaNs.
 1. values for 9th grade reading and math scores affected medium sized schools
 2. scores for schools with spending ranges between 630 and 644 declined slightly
 3. scores for Thomas High School declined significantly averaging a 28% drop as a result of replacing the scores
-4. the district summary was minimally affected with slightly declines of less than 1% for average reading, math and % passing scores.
+4. the district summary was minimally affected with slight declines of less than 1% for average reading, math and % passing scores.
